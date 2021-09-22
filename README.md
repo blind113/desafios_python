@@ -1,1 +1,1 @@
-# Desafios em pytho - site - https://wiki.python.org.br 
+# Desafios em python - site - https://wiki.python.org.br 
